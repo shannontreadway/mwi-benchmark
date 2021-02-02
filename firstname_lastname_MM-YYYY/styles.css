@@ -1,0 +1,118 @@
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+button {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    text-decoration: underline;
+    padding-left: 5%;
+    padding-top: 1ch;
+    padding-bottom: 1ch;
+    padding-left: 5%;
+    padding-right: 5px;
+}
+
+h2 {
+    padding-top: 0.5ch;
+}
+
+hr {
+    height: 1px;
+    color: black;
+    background-color: black;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.grayBox {
+    width: 100%;
+    height: 50pt;
+    background-color:lightgrey;
+    border-color:lightgrey;
+}
+
+img {
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header2 {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#javascriptTest {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+a {
+    color: red;
+}
+
+.col-md-4 {
+    padding-bottom: 12pt;
+}
+
+.contactBox {
+    color: white;
+    background-color: lightgrey;
+    text-align:center;
+    padding-top: 1ch;
+    padding-bottom: 2ch;
+}
+
+label {
+    text-align: left;
+}
+
+input {
+    width: 450px;
+}
+
+textarea {
+    width: 450px;
+}
+
+button {
+    align-content: left;
+}
+
+.error-message {
+    font-size: 0.85em;
+    color:red;
+    float:right;
+    font-style: italic;
+}
+
+#email-error {
+    display:none;
+}
+
+#subject-error {
+    display:none;
+}
+
+#message-error {
+    display:none;
+}
+
+ul {
+    padding-left: 10%;
+}
+
+body {
+    padding-right: 1.1%;
+    padding-left: 1.1%;
+}
